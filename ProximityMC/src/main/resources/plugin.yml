@@ -1,0 +1,16 @@
+name: ProximityMC
+version: ${project.version}
+main: me.Xeouz.ProximityMC.Proximus
+
+prefix: prox
+authors: [Xeouz]
+description: Private Proximity Audio Bridge for Discord Python and MC Java, For Lowpixel 
+website: https://www.youtube.com/watch?v=xvFZjo5PgG0
+
+commands:
+    echo:
+        usage: /echo text
+    position:
+        usage: /position 
+    distance:
+        usage: /distance from to

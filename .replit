@@ -1,0 +1,2 @@
+language="Java"
+run="cd ProximityMC && mvn clean install"
